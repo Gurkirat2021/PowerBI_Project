@@ -72,10 +72,6 @@ This dashboard is designed for:
 - Aspiring students preparing to enter the data field
 - Hiring managers and HR teams wanting industry benchmarks
 
-## 🖼️ Dashboard Preview
-
-*(Add screenshots or GIFs here if available)*
-
 ## 🚀 How to Use
 
 1. Open the `Final_Project_PowerBi.pbix` file using Power BI Desktop.
